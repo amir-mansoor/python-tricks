@@ -13,3 +13,6 @@ then it will work and in windows it almost work
 
 ### Heart turtle used
 <img src="/images/heart.png" alt="Heart" title="Heart">
+
+### reverse a video using python
+in cv2.videoCapture function you need to your own file name with extension
